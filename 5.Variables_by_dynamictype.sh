@@ -13,3 +13,9 @@ echo " The name of the user is $User_Name "
 # Hi user , Can you enter your name :
 #Swetha
 #The name of the user is Swetha
+
+
+echo "Please enter your password : "
+read -s Password #-s is used for the content which we are giving should not display
+
+
