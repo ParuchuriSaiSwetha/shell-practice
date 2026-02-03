@@ -7,3 +7,9 @@ echo " Hi user , Can you enter your name : "
 read User_Name
 echo " The name of the user is $User_Name "
 
+
+
+#output should be like this
+# Hi user , Can you enter your name :
+#Swetha
+#The name of the user is Swetha
