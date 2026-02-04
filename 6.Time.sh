@@ -2,7 +2,7 @@
 start_time=$(date +%s)
 echo "Script started at : $start_time "
 
-sleep 10 &
+sleep 10 
 
 end_time=$(date +%s)
 echo "Script ended at : $end_time "
