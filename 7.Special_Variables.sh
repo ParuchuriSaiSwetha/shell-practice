@@ -21,5 +21,5 @@ echo " Home directory of the user : $HOME "
 echo " pid of the script : $$ "
 echo " Present working directory : $PWD "
 sleep 100 &
-echo " process instance ID passed recently into the script : $!
+echo " process instance ID passed recently into the script : $!"
 echo " All arguments passed to script : $* "
