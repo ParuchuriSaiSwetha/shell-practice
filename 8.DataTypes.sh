@@ -6,4 +6,4 @@ echo "Sum of $num1 and $num2 is : $Sum "
 
 #array or collection
 Friuts=("Apple" "Banana" "Grapes" "Guava")
-echo "Give Fruits are ${Fruits[$@]}"
+echo "Give Fruits are ${Fruits[@]}"
