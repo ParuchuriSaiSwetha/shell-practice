@@ -5,5 +5,5 @@ Sum=$(($num1+$num2))
 echo "Sum of $num1 and $num2 is : $Sum "
 
 #array or collection
-Friuts=("Apple" "Banana" "Grapes" "Guava")
+Fruits=("Apple" "Banana" "Grapes" "Guava")
 echo "Give Fruits are ${Fruits[@]}"
